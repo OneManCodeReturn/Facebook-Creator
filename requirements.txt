@@ -3,3 +3,4 @@ requests
 beautifulsoup4
 faker
 rich
+fake_useragent
